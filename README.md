@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/0020-valid-parentheses) |
+| [0392-is-subsequence](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/0392-is-subsequence) |
 ## Sliding Window
 |  |
 | ------- |
@@ -66,10 +67,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/0018-4sum) |
+| [0392-is-subsequence](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/0392-is-subsequence) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0392-is-subsequence](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/0392-is-subsequence) |
 ## Trie
 |  |
 | ------- |
