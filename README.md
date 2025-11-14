@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/0724-find-pivot-index) |
 | [1833-find-the-highest-altitude](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/1833-find-the-highest-altitude) |
 | [0283-move-zeroes](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/0283-move-zeroes) |
+| [0334-increasing-triplet-subsequence](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 ## Binary Search
 |  |
 | ------- |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/0011-container-with-most-water) |
+| [0334-increasing-triplet-subsequence](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 ## Sorting
 |  |
 | ------- |
