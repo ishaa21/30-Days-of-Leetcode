@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/0020-valid-parentheses) |
 | [0392-is-subsequence](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/0392-is-subsequence) |
 | [1777-determine-if-two-strings-are-close](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
+| [0443-string-compression](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/0443-string-compression) |
 ## Sliding Window
 |  |
 | ------- |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/0392-is-subsequence) |
 | [0283-move-zeroes](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/0283-move-zeroes) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [0443-string-compression](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/0443-string-compression) |
 ## Dynamic Programming
 |  |
 | ------- |
