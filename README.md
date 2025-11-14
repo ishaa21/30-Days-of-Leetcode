@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/0018-4sum) |
 | [0724-find-pivot-index](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/0724-find-pivot-index) |
+| [1833-find-the-highest-altitude](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/1833-find-the-highest-altitude) |
 ## Binary Search
 |  |
 | ------- |
@@ -95,4 +96,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/0724-find-pivot-index) |
+| [1833-find-the-highest-altitude](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/1833-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
