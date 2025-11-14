@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/0018-4sum) |
 | [0392-is-subsequence](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/0392-is-subsequence) |
 | [0283-move-zeroes](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/0283-move-zeroes) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Dynamic Programming
 |  |
 | ------- |
