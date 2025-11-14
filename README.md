@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [2428-equal-row-and-column-pairs](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/2428-equal-row-and-column-pairs) |
 ## String
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-find-the-highest-altitude](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/1833-find-the-highest-altitude) |
 | [0283-move-zeroes](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/0334-increasing-triplet-subsequence) |
+| [2428-equal-row-and-column-pairs](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/2428-equal-row-and-column-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -104,4 +106,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0724-find-pivot-index](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/0724-find-pivot-index) |
 | [1833-find-the-highest-altitude](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/1833-find-the-highest-altitude) |
+## Matrix
+|  |
+| ------- |
+| [2428-equal-row-and-column-pairs](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/2428-equal-row-and-column-pairs) |
+## Simulation
+|  |
+| ------- |
+| [2428-equal-row-and-column-pairs](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/2428-equal-row-and-column-pairs) |
 <!---LeetCode Topics End-->
