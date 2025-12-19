@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [2428-equal-row-and-column-pairs](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [1777-determine-if-two-strings-are-close](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
+| [0073-set-matrix-zeroes](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/0073-set-matrix-zeroes) |
 ## String
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [2428-equal-row-and-column-pairs](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/2428-equal-row-and-column-pairs) |
+| [0073-set-matrix-zeroes](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/0073-set-matrix-zeroes) |
 ## Binary Search
 |  |
 | ------- |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2428-equal-row-and-column-pairs](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/2428-equal-row-and-column-pairs) |
+| [0073-set-matrix-zeroes](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/0073-set-matrix-zeroes) |
 ## Simulation
 |  |
 | ------- |
