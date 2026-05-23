@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/0013-roman-to-integer) |
 ## Recursion
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1777-determine-if-two-strings-are-close](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [0073-set-matrix-zeroes](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0001-two-sum](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/0013-roman-to-integer) |
 ## String
 |  |
 | ------- |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/0392-is-subsequence) |
 | [1777-determine-if-two-strings-are-close](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [0443-string-compression](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/0443-string-compression) |
+| [0013-roman-to-integer](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/0013-roman-to-integer) |
 ## Sliding Window
 |  |
 | ------- |
