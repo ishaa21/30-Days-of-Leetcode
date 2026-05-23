@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2428-equal-row-and-column-pairs](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [1777-determine-if-two-strings-are-close](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [0073-set-matrix-zeroes](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0001-two-sum](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/0001-two-sum) |
 ## String
 |  |
 | ------- |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0063-unique-paths-ii](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/0064-minimum-path-sum) |
+| [0001-two-sum](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/0001-two-sum) |
 ## Binary Search
 |  |
 | ------- |
