@@ -71,14 +71,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/0064-minimum-path-sum) |
 | [0001-two-sum](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/0001-two-sum) |
+| [0493-reverse-pairs](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/0493-reverse-pairs) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0493-reverse-pairs](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/0493-reverse-pairs) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0493-reverse-pairs](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/0493-reverse-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -167,4 +170,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
