@@ -1,19 +1,20 @@
 class Solution {
 public:
     bool increasingTriplet(vector<int>& nums) {
-        int first = INT_MAX, second = INT_MAX;
+        int first = INT_MAX;
+        int second = INT_MAX;
 
-        for(int x : nums)
+        for(int num : nums)
         {
-            if(x <= first)
+            if(num <= first)
             {
-                first = x;
+                first = num;
             }
-            else if( x <= second)
+            else if(num <= second)
             {
-                second = x;
+                second = num;
             }
-            else 
+            else
             {
                 return true;
             }
