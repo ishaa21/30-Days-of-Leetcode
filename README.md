@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/0013-roman-to-integer) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Recursion
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/0443-string-compression) |
 | [0013-roman-to-integer](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/0013-roman-to-integer) |
 | [1768-merge-strings-alternately](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/1768-merge-strings-alternately) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Sliding Window
 |  |
 | ------- |
