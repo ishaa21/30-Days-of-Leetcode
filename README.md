@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/0013-roman-to-integer) |
 | [1768-merge-strings-alternately](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/1768-merge-strings-alternately) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
+| [0345-reverse-vowels-of-a-string](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [0443-string-compression](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/0443-string-compression) |
 | [1768-merge-strings-alternately](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/1768-merge-strings-alternately) |
+| [0345-reverse-vowels-of-a-string](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
