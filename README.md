@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/0493-reverse-pairs) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [0605-can-place-flowers](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/0605-can-place-flowers) |
+| [0238-product-of-array-except-self](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/0238-product-of-array-except-self) |
 ## Binary Search
 |  |
 | ------- |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0724-find-pivot-index](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/0724-find-pivot-index) |
 | [1833-find-the-highest-altitude](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/1833-find-the-highest-altitude) |
+| [0238-product-of-array-except-self](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/0238-product-of-array-except-self) |
 ## Matrix
 |  |
 | ------- |
