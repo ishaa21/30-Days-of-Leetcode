@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/0001-two-sum) |
 | [0493-reverse-pairs](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/0493-reverse-pairs) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [0605-can-place-flowers](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/0605-can-place-flowers) |
 ## Binary Search
 |  |
 | ------- |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/0334-increasing-triplet-subsequence) |
+| [0605-can-place-flowers](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/0605-can-place-flowers) |
 ## Sorting
 |  |
 | ------- |
