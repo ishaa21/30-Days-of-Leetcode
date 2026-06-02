@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [0605-can-place-flowers](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/0605-can-place-flowers) |
 | [0238-product-of-array-except-self](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/1768-merge-strings-alternately) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Dynamic Programming
 |  |
 | ------- |
