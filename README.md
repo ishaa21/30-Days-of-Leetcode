@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1777-determine-if-two-strings-are-close](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [0443-string-compression](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/0443-string-compression) |
 | [0013-roman-to-integer](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/0013-roman-to-integer) |
+| [1768-merge-strings-alternately](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/1768-merge-strings-alternately) |
 ## Sliding Window
 |  |
 | ------- |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/0283-move-zeroes) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [0443-string-compression](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/0443-string-compression) |
+| [1768-merge-strings-alternately](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/1768-merge-strings-alternately) |
 ## Dynamic Programming
 |  |
 | ------- |
