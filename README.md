@@ -81,11 +81,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/0605-can-place-flowers) |
 | [0238-product-of-array-except-self](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0493-reverse-pairs](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/0493-reverse-pairs) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -124,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/0605-can-place-flowers) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -131,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/0018-4sum) |
 | [1777-determine-if-two-strings-are-close](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Backtracking
 |  |
 | ------- |
