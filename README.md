@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/0013-roman-to-integer) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/0064-minimum-path-sum) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Trie
 |  |
 | ------- |
