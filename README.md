@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/0328-odd-even-linked-list) |
 | [0206-reverse-linked-list](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/0206-reverse-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Hash Table
 |  |
 | ------- |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [0027-remove-element](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/0027-remove-element) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -160,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0234-palindrome-linked-list](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Prefix Sum
 |  |
 | ------- |
