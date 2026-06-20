@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/0860-lemonade-change) |
 | [0055-jump-game](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/0055-jump-game) |
 | [0045-jump-game-ii](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/0045-jump-game-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Binary Search
 |  |
 | ------- |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/0118-pascals-triangle) |
 | [0055-jump-game](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/0055-jump-game) |
 | [0045-jump-game-ii](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/0045-jump-game-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Trie
 |  |
 | ------- |
