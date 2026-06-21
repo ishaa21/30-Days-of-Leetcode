@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/0055-jump-game) |
 | [0045-jump-game-ii](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/0045-jump-game-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1833-maximum-ice-cream-bars](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 ## Binary Search
 |  |
 | ------- |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/0860-lemonade-change) |
 | [0055-jump-game](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/0055-jump-game) |
 | [0045-jump-game-ii](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/0045-jump-game-ii) |
+| [1833-maximum-ice-cream-bars](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 ## Sorting
 |  |
 | ------- |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/0018-4sum) |
 | [1777-determine-if-two-strings-are-close](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [1833-maximum-ice-cream-bars](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 ## Backtracking
 |  |
 | ------- |
@@ -268,4 +271,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/ishaa21/30-Days-of-Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
